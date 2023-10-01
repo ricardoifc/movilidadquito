@@ -1,0 +1,3 @@
+class ExceptionCampus implements Exception{
+
+}
